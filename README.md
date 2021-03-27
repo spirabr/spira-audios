@@ -8,9 +8,9 @@ Os nomes dos arquivos seguem o seguinte modelo:
 \[tipo\]\[modelo\]\_\[autor\]\_\[flags\].wav
 
  - **tipo:** Tipo de gravação realizado
+ - **flags:** Dígitos de 0 ou 1 indicando as configurações utilizadas na gravação
  - **modelo:** Modelo do aparelho utilizado durante a gravação, sendo os 3 primeiros caracteres referentes ao fabricante (Ex.: Apple -> Apl ; Motorola -> Mot), e o restante o modelo.
  - **autor:** Sobrenome do autor, seguido da inicial do primeiro nome
- - **flags:** Dígitos de 0 ou 1 indicando as configurações utilizadas na gravação
 
 ### Tipo
 Natureza da gravação, pode ser um dos itens abaixo:
