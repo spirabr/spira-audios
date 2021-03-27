@@ -23,9 +23,9 @@ Flags que indicam os processamentos utilizados no microfone no momento da grava�
 ### Exemplo
 O nome de arquivo `SsgS20_NakazawaR_010.wav` indica:
 
- 1. Modelo: Samsung S20
- 2. Autor: Renan Nakazawa
- 3. Flags
-	 a.  Supressão de ruído **desativado**
-	 b. Cancelamento de eco **ativado**
-	 c. Controle de ganho automático **desativado**
+ * Modelo: Samsung S20
+ * Autor: Renan Nakazawa
+ * Flags
+	 * Supressão de ruído **desativado**
+	 * Cancelamento de eco **ativado**
+	 * Controle de ganho automático **desativado**
