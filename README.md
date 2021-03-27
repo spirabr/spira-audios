@@ -5,7 +5,7 @@ Este é um repositório para armazenar áudios exemplo para a coleta de áudio d
 ## Nomenclatura
 Os nomes dos arquivos seguem o seguinte modelo:
 
-\[tipo\]\[modelo\]\_\[autor\]\_\[flags\].wav
+\[tipo\]\_\[flags\]\_\[modelo\]\_\[autor\]\.wav
 
  - **tipo:** Tipo de gravação realizado
  - **flags:** Dígitos de 0 ou 1 indicando as configurações utilizadas na gravação
