@@ -2,6 +2,8 @@
 
 Este é um repositório para armazenar áudios exemplo para a coleta de áudio do projeto [SPIRA](https://spira.ime.usp.br/coleta/). Os áudios aqui contidos são amostras dos áudios coletados no aplicativo em desenvolvimento.
 
+[Downloads](https://github.com/spirabr/spira-audios/archive/refs/heads/main.zip)
+
 ## Nomenclatura
 Os nomes dos arquivos seguem o seguinte modelo:
 
@@ -36,6 +38,3 @@ O nome de arquivo `SsgS20_NakazawaR_010.wav` indica:
 	 * Supressão de ruído **desativado**
 	 * Cancelamento de eco **ativado**
 	 * Controle de ganho automático **desativado**
-
-| Arquivos |
-| https://github.com/spirabr/spira-audios/blob/main/parlenda_001_AplIphone12_DoeringR.wav |
