@@ -36,3 +36,6 @@ O nome de arquivo `SsgS20_NakazawaR_010.wav` indica:
 	 * Supressão de ruído **desativado**
 	 * Cancelamento de eco **ativado**
 	 * Controle de ganho automático **desativado**
+
+| Arquivos |
+| https://github.com/spirabr/spira-audios/blob/main/parlenda_001_AplIphone12_DoeringR.wav |
