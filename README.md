@@ -2,7 +2,7 @@
 
 Este é um repositório para armazenar áudios exemplo para a coleta de áudio do projeto [SPIRA](https://spira.ime.usp.br/coleta/). Os áudios aqui contidos são amostras dos áudios coletados no aplicativo em desenvolvimento.
 
-[Downloads](https://github.com/spirabr/spira-audios/archive/refs/heads/main.zip)
+[Download dos Áudios](https://github.com/spirabr/spira-audios/archive/refs/heads/main.zip)
 
 ## Nomenclatura
 Os nomes dos arquivos seguem o seguinte modelo:
