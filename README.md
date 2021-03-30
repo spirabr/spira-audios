@@ -4,7 +4,9 @@ Este é um repositório para armazenar áudios exemplo para a coleta de áudio d
 
 [Download dos Áudios](https://github.com/spirabr/spira-audios/archive/refs/heads/main.zip)
 
+Para testar no seu celular o gravador entre no seguinte link:
 [Gravar novo áudio](https://spira.netlify.app/)
+Abra a opção "Teste de Áudio" e aperte em "gravar", ao apertar novamente (agora com no símbolo escrito "gravando") o audio terminará e pedirá um nome para o audio (o nome em nada influencia). Para escutar o áudio aperte no fone à direita no cartão e para baixar o áudio em formato .wav aperte na setinha para baixo ao centro do cartão.
 
 ## Nomenclatura
 Os nomes dos arquivos seguem o seguinte modelo:
