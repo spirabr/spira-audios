@@ -18,7 +18,7 @@ Os nomes dos arquivos seguem o seguinte modelo:
  - **tipo:** Tipo de gravação realizado
  - **flags:** Dígitos de 0 ou 1 indicando as configurações utilizadas na gravação
  - **modelo:** Modelo do aparelho utilizado durante a gravação, sendo os 3 primeiros caracteres referentes ao fabricante (Ex.: Apple -> Apl ; Motorola -> Mot), e o restante o modelo.
- - **autor:** Sobrenome do autor, seguido da inicial do primeiro nome (ou abreviação do nome seguida de sobrenome)
+ - **autor:** Nome do autor do áudio
  - **navegador:** O navegador utilizado (Google Chrome, Safari, Mozilla Firefox)
 
 ### Tipo
@@ -37,7 +37,7 @@ Flags que indicam os processamentos utilizados no microfone no momento da grava�
 
 
 ### Exemplo
-O nome de arquivo `SsgS20_NakazawaR_010.wav` indica:
+O nome de arquivo `SsgS20_NakazawaR_010_Chrome.wav` indica:
 
  * Modelo: Samsung S20
  * Autor: Renan Nakazawa
@@ -45,3 +45,4 @@ O nome de arquivo `SsgS20_NakazawaR_010.wav` indica:
 	 * Supressão de ruído **desativado**
 	 * Cancelamento de eco **ativado**
 	 * Controle de ganho automático **desativado**
+ * Navegador: Google Chrome
